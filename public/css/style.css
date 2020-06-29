@@ -1,3 +1,36 @@
+/* -------------------------------global----------------------------------------------*/
+
+body {
+    background-color: rgba(5, 75, 21, 0.575);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center
+}
+
+address {
+    text-align: center;
+}
+
+.text_color {
+    color: azure !important;
+}
+
+
+/*--------------------------------header----------------------------------------------*/
+
 .fond_accueil {
     background-image: url("../img/fond_accueil.jpg");
     background-repeat: no-repeat;
